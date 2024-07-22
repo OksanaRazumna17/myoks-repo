@@ -1,0 +1,59 @@
+    1  cd IT-CH/GIT/work/
+    2  git config --globak -l
+    3  git config --global user.name OKSANA.Razumna
+    4  git config --global user.emal razumna1971@gmail.com
+    5  git config --global -l
+    6  git clone git@github.com:OksanaRazumna17/310524-ptmOks.git
+    7  git clone [200~
+    8  git cline git@github.com:OksanaRazumna17/git_introOks.git
+    9  git glone [200~
+   10  git clone git@github.com:OksanaRazumna17/git_introOks.git
+   11  ls -all
+   12  ls -al
+   13  git clone git@github.com:it-career-hub/Fork-310524-ptm.git
+   14  [200~git clone http://github.com/your
+   15  cd ~/Documents/курс пайтон/линукс
+   16  [200~
+   17  cd "~/Documents/курс пайтон/линукс"
+   18  cd ~/Documents/курс\ пайтон/линукс
+   19  cd "~/Documents/курс пайтон/линукс" 
+   20  [200~
+   21  ls ~
+   22  ls
+   23  git clone git@github.com:it-career-hub/myoks-repo.git
+   24  cd myoks-repo
+   25  echo "*.log" > .gitignore
+   26  git add .gitignore
+   27  git commit -m "Add .gitignore file"
+   28  git add .gitignore
+   29  git commit -m "Add .gitignore file"
+   30  git add .gitignore
+   31  git clone git@github.com:your-username/myoks-repo.git
+   32  git clone git@github.com:OksanaRazumna17/myoks-repo.git
+   33  cd myoks-repo
+   34  echo "*.log" > .gitignore
+   35  git commit -m "Add .gitignore file"
+   36  git config --global user.name "Oksana Razumna"
+   37  got config --global user.email "razumna1971@gmail.com"
+   38  git config --global user.email "razumna1971@gmail.com"
+   39  cd ~/Documents/курс\ пайтон/линукс/myoks-repo
+   40  echo "*.log" > .gitignore
+   41  git commit -m "Add .gitignore file"
+   42  git push origin main
+   43  git branch
+   44  git add .gitignore
+   45  git commit -m "Add .gitignore file"
+   46  git push origin main
+   47  git checkout -b feature
+   48  echo "# My Repository" > README.md
+   49  echo "*.tmp" >> .gitignore
+   50  echo "## Feature Branch" >> README.md
+   51  git add README.md .gitignore
+   52  git commit -m "Update README.md and .gitignore files"
+   53  git push origin feature
+   54  git commit --amend -m "Update README.md and .gitignore files - amend"
+   55  git push --force origin feature
+   56  git checkout main
+   57  git merge feature
+   58  git push origin main
+   59  history > history.txt
